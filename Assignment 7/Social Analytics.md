@@ -1,5 +1,10 @@
 
 
+Social Sentiment Analysis
+
+1. In reviewing the compound scores, CBS has a considerably higher score than the other news outlets.
+2. On the other side, CNN has the lowest compound score, followed by FoxNews and the NYTimes.
+
 ```python
 #Dependencies
 import tweepy
