@@ -1,0 +1,45 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    text-align:center;
+  }
+  
+  .jumbotron {
+      font-family: 'Calibri', Arial, monospace;
+      background-color: indigo;
+      color: greenyellow;
+  }
+
+  .display-3 {
+      font-weight: bolder; 
+      text-shadow: 4px 4px 10px fuchsia;
+  }
+
+  body {
+    background-image: url("");
+  }
+  
+  table {
+    table-layout: fixed;
+    column-width: unset;
+    color: #333;
+    font-size: .9em;
+    font-weight: 300;
+    line-height: 40px;
+    border-collapse: separate;
+    border-spacing: 0;
+    border: 2px solid #ed1c40;
+    width: 500px;
+    margin: 50px auto;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,.16);
+    border-radius: 2px;
+  }
+  
+  th {
+    background: #ed1c40;
+    color: #fff;
+    border: none;
+  }
+  
+  tr {background-color: rgb(226, 200, 205);}
